@@ -1,1 +1,1 @@
-# Koinonia_Project
+# KOINONIA_Project
